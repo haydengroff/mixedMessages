@@ -22,5 +22,5 @@
 
 ## My Project
 
-My Project will print a random knock-knock joke using different combinations of set-ups and punchlines.
+My Project will print a random horoscope.
 
